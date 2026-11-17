@@ -1,2 +1,2 @@
 # Learning about Version Control
-## Author: Jonah Sider-Echenberg
+# Author: Jonah Sider-Echenberg
